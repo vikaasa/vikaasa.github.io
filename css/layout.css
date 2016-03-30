@@ -394,6 +394,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 70px;
    padding-bottom: 12px;
    overflow: hidden;
+   position: relative;
 }
 
 #portfolio a, #resume a:visited  { color: #11ABB0; }
