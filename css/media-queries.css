@@ -221,15 +221,10 @@
    #resume .main-col { padding-right: 30px; }
    #resume h3, #resume .info { text-align: center; }
       
-   .bars { width: 100%; }
-
-
- 
-
-
+  
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-     #portfolio .header-col {
+   #portfolio .header-col {
       padding-top: 0;
       margin-bottom: 48px;
       text-align: center;
